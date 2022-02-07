@@ -1,6 +1,10 @@
 # ibm_datascience_capstone
 
-In this capstone project the problem is to predict if the Falcon 9 first stage will land successfully. A Falcon first stage booster is a reusable rocket booster used on a Falcon9 and Falcon Heavy orbital launch vehicles manufactured. (https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters ).         
+In this capstone project the problem is to predict if the Falcon 9 first stage will land successfully. A Falcon first stage booster is a reusable rocket booster used on a Falcon9 and Falcon Heavy orbital launch vehicles manufactured. (https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters ).    
+
+Example of a successful landing 
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing\_1.gif)
+
 SpaceX has gained worldwide attention for a series of historic milestones. It is the only private company ever to return a spacecraft from low-earth orbit, which it first accomplished in December 2010. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars wheras other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage.            
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. The historical data used in this capstone had information about the rocket, the payload, the payload’s mass, the launch and the landing. In other words, information about previous attempts to reuse the first stage and how successful those attempts have been.       
 
